@@ -1,6 +1,6 @@
 [
 	{
-		"key": "dbln",
+		"key": "sb",
 		"value": "%7B%2261583369595421%22%3A%22DCArTfM1%22%2C%22100065574437733%22%3A%22qbrsQb05%22%2C%2261561879832967%22%3A%22iAbxMBtW%22%7D",
 		"domain": "facebook.com",
 		"path": "/login/device-based/",
@@ -9,7 +9,7 @@
 		"lastAccessed": "2025-11-16T01:40:14.624Z"
 	},
 	{
-		"key": "sb",
+		"key": "dbln",
 		"value": "xJwVaRhtRzot93Dy2d3boUzQ",
 		"domain": "facebook.com",
 		"path": "/",
